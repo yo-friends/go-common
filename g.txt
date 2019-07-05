@@ -2,3 +2,5 @@ hello git
 i chenge this file onece
 golang 大法好
 我们完成了，分布式部署，离上线也就一步之遥，这真是令人惊叹的成就。(真实)
+dev
+	i,am create dev----- now start dev work.
